@@ -1,0 +1,8 @@
+global using Microsoft.AspNetCore.Mvc;
+global using EmployeeManagementSystem.Application.DTOs;
+global using EmployeeManagementSystem.Application.Interfaces;
+global using EmployeeManagementSystem.API.Controllers;
+global using EmployeeManagementSystem.Application.Service;
+global using AutoMapper;
+global using EmployeeManagementSystem.Domain.Entities;
+global using Moq;

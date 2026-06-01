@@ -1,7 +1,4 @@
-﻿using FluentValidation;
-using EmployeeManagementSystem.Application.DTOs;
-
-namespace EmployeeManagementSystem.Application.Validator;
+﻿namespace EmployeeManagementSystem.Application.Validator;
 
 public class UpdateValidator :AbstractValidator<UpdateDto>
 {

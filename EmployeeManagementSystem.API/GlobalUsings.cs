@@ -1,0 +1,11 @@
+global using Microsoft.EntityFrameworkCore;
+global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using EmployeeManagementSystem.Application.Interfaces;
+global using EmployeeManagementSystem.Application.Mapping;
+global using EmployeeManagementSystem.Application.Service;
+global using EmployeeManagementSystem.Application.Validator;
+global using EmployeeManagementSystem.Infrastructure.Data;
+global using EmployeeManagementSystem.Infrastructure.Repository;
+global using Microsoft.AspNetCore.Mvc;
+global using EmployeeManagementSystem.Application.DTOs;

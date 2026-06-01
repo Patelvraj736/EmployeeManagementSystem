@@ -1,6 +1,4 @@
-﻿using EmployeeManagementSystem.Application.DTOs;
-
-namespace EmployeeManagementSystem.Application.Interfaces;
+﻿namespace EmployeeManagementSystem.Application.Interfaces;
 
 public interface IEmpService
 {

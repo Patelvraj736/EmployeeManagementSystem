@@ -1,0 +1,1 @@
+global using EmployeeManagementSystem.Domain.Enums;

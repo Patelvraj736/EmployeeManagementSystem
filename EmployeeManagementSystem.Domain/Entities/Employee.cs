@@ -1,6 +1,4 @@
-﻿using EmployeeManagementSystem.Domain.Enums;
-
-namespace EmployeeManagementSystem.Domain.Entities;
+﻿namespace EmployeeManagementSystem.Domain.Entities;
 
 public class Employee : BaseEntity
 {

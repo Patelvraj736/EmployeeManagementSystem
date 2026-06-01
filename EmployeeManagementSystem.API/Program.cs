@@ -1,12 +1,4 @@
-using FluentValidation;
-using FluentValidation.AspNetCore;
-using Microsoft.EntityFrameworkCore;
-using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Application.Mapping;
-using EmployeeManagementSystem.Application.Service;
-using EmployeeManagementSystem.Application.Validator;
-using EmployeeManagementSystem.Infrastructure.Data;
-using EmployeeManagementSystem.Infrastructure.Repository;
+
 
         var builder = WebApplication.CreateBuilder(args);
 

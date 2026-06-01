@@ -1,8 +1,4 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Application.Interfaces;
-
-namespace EmployeeManagementSystem.API.Controllers;
+﻿namespace EmployeeManagementSystem.API.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]

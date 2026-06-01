@@ -1,7 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using EmployeeManagementSystem.Domain.Entities;
-namespace EmployeeManagementSystem.Infrastructure.Data;
-
+﻿namespace EmployeeManagementSystem.Infrastructure.Data;
 public class AppDbContext  : DbContext
 { 
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }

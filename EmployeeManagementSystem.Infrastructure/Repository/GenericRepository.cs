@@ -1,9 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Domain.Entities;
-using EmployeeManagementSystem.Infrastructure.Data;
-
-namespace EmployeeManagementSystem.Infrastructure.Repository;
+﻿namespace EmployeeManagementSystem.Infrastructure.Repository;
 
 public sealed class GenericRepository<T>(AppDbContext context) : IGenericRepository<T> where T : BaseEntity
 {

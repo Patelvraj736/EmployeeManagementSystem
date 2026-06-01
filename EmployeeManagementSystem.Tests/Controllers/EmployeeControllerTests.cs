@@ -1,10 +1,4 @@
-﻿using EmployeeManagementSystem.API.Controllers;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Application.Interfaces;
-using Microsoft.AspNetCore.Mvc;
-using Moq;
-
-namespace EmployeeManagementSystem.Tests.Controllers;
+﻿namespace EmployeeManagementSystem.Tests.Controllers;
 
 public class EmployeeControllerTests
 {

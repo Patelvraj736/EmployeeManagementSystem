@@ -1,8 +1,4 @@
-﻿using AutoMapper;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Domain.Entities;
-
-namespace EmployeeManagementSystem.Application.Mapping;
+﻿namespace EmployeeManagementSystem.Application.Mapping;
 
 public class MapProfile : Profile
 {

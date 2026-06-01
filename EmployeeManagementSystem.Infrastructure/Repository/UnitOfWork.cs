@@ -1,8 +1,4 @@
-﻿using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Domain.Entities;
-using EmployeeManagementSystem.Infrastructure.Data;
-
-namespace EmployeeManagementSystem.Infrastructure.Repository;
+﻿namespace EmployeeManagementSystem.Infrastructure.Repository;
 
 public sealed class UnitOfWork(AppDbContext context, IGenericRepository<Employee> employees) : IUnitOfWork
 {

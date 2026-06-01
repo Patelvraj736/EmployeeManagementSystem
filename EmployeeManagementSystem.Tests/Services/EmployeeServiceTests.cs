@@ -1,12 +1,4 @@
-﻿using AutoMapper;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Application.Service;
-using EmployeeManagementSystem.Domain.Entities;
-using Moq;
-using System.Runtime.CompilerServices;
-
-namespace EmployeeManagementSystem.Tests.Services;
+﻿namespace EmployeeManagementSystem.Tests.Services;
 
 public class EmployeeServiceTests
 {

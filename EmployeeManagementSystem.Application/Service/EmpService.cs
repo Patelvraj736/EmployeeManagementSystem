@@ -1,9 +1,4 @@
-﻿using AutoMapper;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Domain.Entities;
-
-namespace EmployeeManagementSystem.Application.Service;
+﻿namespace EmployeeManagementSystem.Application.Service;
 
 public sealed class EmpService(IUnitOfWork uow, IMapper mapper) : IEmpService
 {

@@ -1,11 +1,4 @@
-﻿using AutoMapper;
-using EmployeeManagementSystem.Application.DTOs;
-using EmployeeManagementSystem.Application.Interfaces;
-using EmployeeManagementSystem.Application.Service;
-using EmployeeManagementSystem.Domain.Entities;
-using Moq;
-
-namespace EmployeeManagementSystem.Tests.Services;
+﻿namespace EmployeeManagementSystem.Tests.Services;
 
 [TestFixture]
 public class EmployeeServiceTests
