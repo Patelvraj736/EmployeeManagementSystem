@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EmployeeManagementSystem.API/EmployeeManagementSystem.API.csproj" />
+  <Project Path="EmployeeManagementSystem.Application/EmployeeManagementSystem.Application.csproj" />
+  <Project Path="EmployeeManagementSystem.Domain/EmployeeManagementSystem.Domain.csproj" />
+  <Project Path="EmployeeManagementSystem.Infrastructure/EmployeeManagementSystem.Infrastructure.csproj" />
+  <Project Path="EmployeeManagementSystem.Tests.NUnit/EmployeeManagementSystem.Tests.NUnit.csproj" />
+  <Project Path="EmployeeManagementSystem.Tests/EmployeeManagementSystem.Tests.XUnit.csproj" />
+</Solution>
