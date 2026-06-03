@@ -1,7 +1,4 @@
-﻿using EmployeeManagementSystem.API.Controllers;
-using Microsoft.AspNetCore.Mvc;
-
-namespace EmployeeManagementSystem.Tests.Controllers;
+﻿namespace EmployeeManagementSystem.Tests.Controllers;
 
 [TestFixture]
 public class EmployeeControllerTests
